@@ -48,8 +48,8 @@ RUN : \
 # Use IDF_CLONE_SHALLOW_DEPTH=X to define the depth if IDF_CLONE_SHALLOW is used (i.e. --depth=X)
 # Use IDF_INSTALL_TARGETS to install tools only for selected chip targets (CSV)
 
-ARG IDF_CLONE_URL=https://github.com/espressif/esp-idf.git
-ARG IDF_CLONE_BRANCH_OR_TAG=master
+ARG IDF_CLONE_URL=https://github.com/2make-org/esp-idf.git
+ARG IDF_CLONE_BRANCH_OR_TAG=feature/json-number-float-formatting
 ARG IDF_CHECKOUT_REF=
 ARG IDF_CLONE_SHALLOW=
 ARG IDF_CLONE_SHALLOW_DEPTH=1
