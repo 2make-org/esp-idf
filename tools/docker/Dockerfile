@@ -49,7 +49,7 @@ RUN : \
 # Use IDF_INSTALL_TARGETS to install tools only for selected chip targets (CSV)
 
 ARG IDF_CLONE_URL=https://github.com/2make-org/esp-idf.git
-ARG IDF_CLONE_BRANCH_OR_TAG=feature/json-number-float-formatting-v5.5.1
+ARG IDF_CLONE_BRANCH_OR_TAG=feature/json-number-float-formatting-v5.5.4
 ARG IDF_CHECKOUT_REF=
 ARG IDF_CLONE_SHALLOW=
 ARG IDF_CLONE_SHALLOW_DEPTH=1

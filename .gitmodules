@@ -55,7 +55,7 @@
 	sbom-supplier = Person: Dave Gamble
 	sbom-url = git@github.com:2make-org/cJSON.git
 	sbom-description = Ultralightweight JSON parser in ANSI C
-	sbom-hash = c859b25da02955fef659d658b8f324b5cde87be3
+	sbom-hash = 31cff1dcf159515c77b348ac23a71e64b6ab2ce5
 
 [submodule "components/mbedtls/mbedtls"]
 	path = components/mbedtls/mbedtls
